@@ -1,18 +1,5 @@
 
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
-<br><br><br><br><br><br>
 <div align="center" style="font-size: 100px; font-weight: bold; margin-bottom: 0;">2048 Game</div>
-<br><br><br>
-
-<div align="center" style="font-size: 30px; margin-bottom: 0;">Final Project Report</div>
-<br><br><br>
-<div align="center" style="font-size: 60px; font-weight: bold; margin-bottom: 0;">Vrushabh Gada</div>
-<br><br><br>
-<div align="center" style="font-size: 30px;  margin-bottom: 0;">ECEN 5613 Embedded System Design</div>
-<br><br><br>
-<div align="center" style="font-size: 30px;  margin-bottom: 0;">April 28th 2025</div>
-
 
 
 
