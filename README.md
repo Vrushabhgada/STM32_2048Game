@@ -1,5 +1,5 @@
 
-<div align="center" style="font-size: 100px; font-weight: bold; margin-bottom: 0;">2048 Game</div>
+<div align="center" style="font-size: 500px; font-weight: bold; margin-bottom: 0;">2048 Game</div>
 
 
 
