@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ili9341.h": "c",
+        "type_traits": "c",
+        "stdio.h": "c",
+        "game_rules.h": "c",
+        "compare": "c"
+    }
+}
