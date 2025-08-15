@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "game_touch.h": "c"
+    },
+    "markdown-pdf.styles": [
+        "markdown-pdf.css",
+    ],
+}
